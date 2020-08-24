@@ -1,7 +1,7 @@
-coc
+coc/
 configstore
-htop
-neofetch
-nvim
-ranger
-zsh/ohmyzsh
+htop/
+neofetch/
+nvim/
+ranger/
+zsh/ohmyzsh/

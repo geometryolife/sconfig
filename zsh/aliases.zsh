@@ -2,8 +2,10 @@ alias l='ls -la'
 alias c='clear'
 alias n='neofetch'
 alias ra='ranger'
+alias cat='ccat'
 
 # Editor
+alias e='emacs -nw'
 alias vi='nvim'
 
 # Tmux
