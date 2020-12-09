@@ -3,12 +3,17 @@
 yum -y install git
 yum -y install zsh
 yum -y install gcc
-# yum -y install clang
+# yum -y install w3m
+# yum -y install w3m-img
+yum -y install clang
+yum -y install tree
 yum -y install curl
 yum -y install wget
 yum -y install htop
 yum -y install python3
 yum -y install figlet
+yum -y install atool
+yum -y install pandoc
 yum -y install make
 yum -y install cmake
 yum -y install autoconf
@@ -36,3 +41,9 @@ yum -y install texinfo
 # For FZF
 yum -y groupinstall "Development Tools"
 yum -y install pcre-devel xz-devel zlib-devel
+# OPENSSL
+yum -y install openssl-devel
+# for GCC
+yum -y install gmp-devel
+yum -y install mpfr-devel
+yum -y install libmpc-devel

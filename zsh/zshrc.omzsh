@@ -9,11 +9,16 @@ export ZSH=$HOME/.config/zsh/ohmyzsh
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-#ZSH_THEME="random"
+# ZSH_THEME="random"
 # ZSH_THEME="sonicradish"
-ZSH_THEME="trapd00r"
-#ZSH_THEME="dogenpunk"
-#ZSH_THEME="fino-time"
+# ZSH_THEME="trapd00r"
+# ZSH_THEME="dogenpunk"
+# ZSH_THEME="fino-time"
+# ZSH_THEME="fox"
+# ZSH_THEME="kennethreitz"
+# ZSH_THEME="miloshadzic"
+# ZSH_THEME="amuse"
+ZSH_THEME="obraun"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
