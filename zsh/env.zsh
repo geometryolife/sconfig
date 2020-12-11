@@ -1,4 +1,5 @@
 #export XDG_CONFIG_HOME=$HOME/.config
+export PATH=$PATH:/opt/neovim/bin
 export EDITOR=nvim
 export RANGER_LOAD_DEFAULT_RC="false"
 export GOPATH=$HOME/go
