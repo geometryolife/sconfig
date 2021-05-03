@@ -1,9 +1,11 @@
 zsh
 git
+gdb
 curl
 wget
 
 gzip
+xclip
 atool
 p7zip-full
 unrar-free
@@ -24,15 +26,34 @@ cmake
 g++
 pkg-config
 unzip
+# Build tools
+make
+libssl-dev
 # Compiler
 gcc
 clang
 # For Neovim language server
 ccls
 clangd
+# Format Tools
+clang-format
 
 # X11
 # xrog
 # libx11-dev
 # x11proto-xext-dev
 # libxext-dev
+
+# bpytop
+
+# network
+httpie
+proxychains
+
+# Python
+python3-dev
+
+# 可视化
+python3-tk
+tk-dev
+
