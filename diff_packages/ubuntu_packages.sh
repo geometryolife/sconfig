@@ -56,4 +56,17 @@ python3-dev
 # 可视化
 python3-tk
 tk-dev
+# Text-based spreadsheet with VI-like keybindings
+sc
+# StarDict
+sdcv
 
+# GitHub Tools
+hub
+
+Web
+apache2
+mysql-server
+php
+libapache2-mod-php
+php-mysql
