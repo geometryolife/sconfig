@@ -60,11 +60,13 @@ tk-dev
 sc
 # StarDict
 sdcv
+# improved colored diff
+icdiff
 
 # GitHub Tools
 hub
 
-Web
+# Web
 apache2
 mysql-server
 php
