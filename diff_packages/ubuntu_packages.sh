@@ -72,3 +72,10 @@ mysql-server
 php
 libapache2-mod-php
 php-mysql
+
+# system performance tools for Linux
+sysstat
+
+# 花屏
+hollywood
+cmatrix
