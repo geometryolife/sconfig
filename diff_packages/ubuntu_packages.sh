@@ -38,6 +38,9 @@ clangd
 # Format Tools
 clang-format
 
+# For Neovim
+neovim-remote
+
 # X11
 # xrog
 # libx11-dev
