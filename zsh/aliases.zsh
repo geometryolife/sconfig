@@ -2,6 +2,7 @@ alias l='ls -la'
 alias c='clear'
 alias n='neofetch'
 alias ra='ranger'
+alias lg='lazygit'
 # alias cat='ccat'
 
 # Editor

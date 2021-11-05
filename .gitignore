@@ -11,3 +11,12 @@ BaiduPCS-Go/
 clash/
 dconf/
 lazygit/state.yml
+deepin/
+fcitx/
+google-chrome/
+redshift/
+gtk-3.0/
+
+user-dirs.locale
+user-dirs.dirs
+mimeapps.list
