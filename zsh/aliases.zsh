@@ -7,6 +7,7 @@ alias lg='lazygit'
 
 # Editor
 alias e='emacs -nw'
+alias ee='emacs'
 alias vi='nvim'
 
 # Tmux

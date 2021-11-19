@@ -24,3 +24,7 @@ go env -w  GOPROXY=https://goproxy.io
 #go env -w  GOPROXY=https://goproxy.cn
 # 3. 阿里云
 #go env -w GOPROXY=https://mirrors.aliyun.com/goproxy/
+
+# export http_proxy=http://127.0.0.1:7890
+# export https_proxy=https://127.0.0.1:7890
+# export socks5_proxy=socks5://127.0.0.1:7891

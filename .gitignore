@@ -16,6 +16,7 @@ fcitx/
 google-chrome/
 redshift/
 gtk-3.0/
+QtProject.conf
 
 user-dirs.locale
 user-dirs.dirs
