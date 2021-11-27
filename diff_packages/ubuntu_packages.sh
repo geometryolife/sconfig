@@ -82,3 +82,9 @@ sysstat
 # 花屏
 hollywood
 cmatrix
+
+# ASCII Art Word
+figlet
+toilet
+# dpkg -L toilet-fonts | tail
+# toilet -f mono9.tlf Aliases
