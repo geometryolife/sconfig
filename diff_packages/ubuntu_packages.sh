@@ -10,6 +10,9 @@ atool
 p7zip-full
 unrar-free
 
+# Search
+ripgrep
+silversearcher-ag
 
 htop
 tree

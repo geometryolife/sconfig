@@ -3,6 +3,7 @@ configstore
 htop/
 neofetch/
 nvim/
+.vim/
 go/
 zsh/ohmyzsh/
 bpytop/
